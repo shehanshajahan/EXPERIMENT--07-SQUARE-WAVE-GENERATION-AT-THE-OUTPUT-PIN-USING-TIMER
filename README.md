@@ -229,7 +229,8 @@ static void MX_TIM2_Init(void)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 
 FOR PULSE AT 500
-![Screenshot 2025-05-05 092021](https://github.com/user-attachments/assets/6fa1a979-0ece-49d8-9d64-fc58178b3b7c)
+<img width="1518" height="993" alt="Screenshot 2025-11-15 142505" src="https://github.com/user-attachments/assets/6c6cb148-bbb5-4d73-b6b0-28064bad4395" />
+
 ```
 TON = 3 x 10 x 10^-6 = 0.00003
 TOFF= 3 x 10 x 10^-6 = 0.00003
